@@ -19,5 +19,5 @@ end
 
 def printer(array)
   puts batch_badge_creator(array)
-  puts assign_rooms(array).chomp
+  puts assign_rooms(array)
 end
