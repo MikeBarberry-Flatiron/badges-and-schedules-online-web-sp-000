@@ -21,5 +21,4 @@ def printer(name)
   puts badge_maker(name)
 end
 
-puts speakers
-printer
+printer(speakers)
