@@ -18,5 +18,5 @@ def assign_rooms(array)
 end
 
 ["foo", "bar", "baz"].each_with_index do |number, key|
-    puts "Welcome to" + (key + 1) + "#{number}"
+    puts "Welcome to #{key + 1} #{number}"
 end
