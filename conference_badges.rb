@@ -17,5 +17,5 @@ def assign_rooms(array)
 end
 
 [:foo, :bar, :baz].each_with_index do |value, index|
-    puts "#{index}: #{value}"
+    puts "#{value}: #{index}"
 end
