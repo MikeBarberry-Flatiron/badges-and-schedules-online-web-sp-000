@@ -22,3 +22,5 @@ def printer
 end
 
 printer
+
+puts speakers
