@@ -21,4 +21,4 @@ def printer
 
 end
 
-puts badge_maker("Jones")
+puts badge_maker()
