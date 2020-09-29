@@ -21,4 +21,4 @@ def printer
 
 end
 
-assign_rooms(speakers)
+puts assign_rooms(speakers)
