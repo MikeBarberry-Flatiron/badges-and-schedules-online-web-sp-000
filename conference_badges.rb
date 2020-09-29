@@ -13,10 +13,6 @@ end
 
 def assign_rooms(array)
   array.each_with_index do |name, index|
-    "Hello, #{name}! You'll be assigned to room" + (index + 1) + " !"
+    "Hello, #{name}! You'll be assigned to room #{index + 1}!""
   end
-end
-
-["foo", "bar", "baz"].each_with_index do |number, key|
-    puts "Welcome to #{key + 1} #{number}"
 end
