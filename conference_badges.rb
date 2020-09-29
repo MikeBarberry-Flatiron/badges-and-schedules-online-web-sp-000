@@ -17,9 +17,6 @@ def assign_rooms(array)
   end
 end
 
-
-["foo", "bar", "baz"].each_with_index do |number, key|
-    puts "Welcome to #{key + 1} #{number}"
+def printer
+  
 end
-
-puts assign_rooms(speakers)
