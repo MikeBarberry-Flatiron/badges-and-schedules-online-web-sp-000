@@ -13,7 +13,7 @@ end
 
 def assign_rooms(array)
   array.each_with_index do |name, index|
-
+  end
 end
 
 ["foo", "bar", "baz"].each_with_index do |number, key|
