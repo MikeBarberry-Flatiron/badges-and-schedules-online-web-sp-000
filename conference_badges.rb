@@ -21,4 +21,5 @@ def printer(name)
   puts badge_maker(name)
 end
 
+badge_maker(speakers)
 printer(speakers)
