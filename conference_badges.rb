@@ -12,10 +12,10 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(array)
-
+  array.each_with_index do |name, index|
 
 end
 
 ["foo", "bar", "baz"].each_with_index do |number, key|
-    puts "#{key}: #{number}"
+    puts key + 1 
 end
