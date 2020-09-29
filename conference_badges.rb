@@ -17,8 +17,8 @@ def assign_rooms(array)
   end
 end
 
-def printer
-  puts speakers
+def printer(name)
+  puts badge_maker(name)
 end
 
 puts speakers
