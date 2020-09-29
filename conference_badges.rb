@@ -21,6 +21,5 @@ def printer
   puts speakers
 end
 
-printer
-
 puts speakers
+printer
